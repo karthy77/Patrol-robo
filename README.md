@@ -1,3 +1,10 @@
+
+## 📱 Scan to View This Project
+
+> Point your mobile camera here to open my GitHub project directly 👇
+
+![QR Code](https://api.qrserver.com/v1/create-qr-code/?size=250x250&data=https://github.com/KarthikaG/tomato-disease-flask)
+
 # Patrol-robo
 #!/usr/bin/env python3
 import os
